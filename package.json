@@ -1,0 +1,27 @@
+{
+  "name": "zero-buffer",
+  "version": "1.0.0",
+  "description": "This module allows you to zero fill buffer allocations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Jackson <majgis@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majgis/zero-buffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "zero",
+    "fill"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/majgis/zero-buffer/issues"
+  },
+  "homepage": "https://github.com/majgis/zero-buffer#readme"
+}
