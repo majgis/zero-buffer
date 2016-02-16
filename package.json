@@ -4,7 +4,8 @@
   "description": "This module allows you to zero fill buffer allocations.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "faucet",
+    "standard":"standard"
   },
   "author": "Michael Jackson <majgis@gmail.com>",
   "license": "ISC",
@@ -23,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/majgis/zero-buffer/issues"
   },
-  "homepage": "https://github.com/majgis/zero-buffer#readme"
+  "homepage": "https://github.com/majgis/zero-buffer#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "standard": "^6.0.5",
+    "tape": "^4.4.0"
+  }
 }
