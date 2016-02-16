@@ -26,3 +26,7 @@ This module is only supported in Node.js >= v4.x
 
     $ node -r zero-buffer -p "new Buffer(4200).toString()" | strings
 
+## Changelog
+
+* 1.0.1 - Now only zeros when an number is given
+
