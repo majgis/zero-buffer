@@ -1,6 +1,6 @@
 {
   "name": "zero-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module allows you to zero fill buffer allocations.",
   "main": "index.js",
   "scripts": {
